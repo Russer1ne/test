@@ -1,0 +1,45 @@
+.navbar {
+    overflow: hidden;
+    background-color: orange;
+    position: fixed;
+    top: 0;
+    width: 80%;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar a:hover {
+    background: chocolate;
+    color: black;
+}
+
+body {
+    font-family: Verdana, Arial,sans-serif;
+    font-size: medium;
+    background-color: wheat;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+}
+
+h1{
+    color: orange;
+}
+p {
+    color: orange;
+    font-size: 17px;
+}
+
+footer {
+    border-top: chocolate;
+}
